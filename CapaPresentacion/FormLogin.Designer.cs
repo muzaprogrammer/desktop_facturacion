@@ -129,7 +129,7 @@ namespace CapaPresentacion
             this.lblHora.AutoSize = true;
             this.lblHora.BackColor = System.Drawing.Color.White;
             this.lblHora.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblHora.Location = new System.Drawing.Point(112, 20);
+            this.lblHora.Location = new System.Drawing.Point(9, 19);
             this.lblHora.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.lblHora.Name = "lblHora";
             this.lblHora.Size = new System.Drawing.Size(65, 25);
