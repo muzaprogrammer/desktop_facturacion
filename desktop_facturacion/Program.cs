@@ -4,6 +4,8 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
+using CapaPresentacion;
+
 namespace desktop_facturacion
 {
     static class Program
@@ -16,7 +18,7 @@ namespace desktop_facturacion
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Form1());
+            Application.Run(new FormLogin());
         }
     }
 }

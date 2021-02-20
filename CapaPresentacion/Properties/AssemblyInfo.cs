@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("desktop_facturacion")]
+[assembly: AssemblyTitle("CapaPresentacion")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("desktop_facturacion")]
+[assembly: AssemblyProduct("CapaPresentacion")]
 [assembly: AssemblyCopyright("Copyright ©  2021")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("fe0d8a6a-49a1-48e5-8ba9-b967716e302d")]
+[assembly: Guid("bf61a6c6-5f09-4c8e-8c29-b31029dee3e1")]
 
 // Version information for an assembly consists of the following four values:
 //
