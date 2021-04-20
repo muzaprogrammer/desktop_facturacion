@@ -164,9 +164,9 @@ namespace CapaPresentacion
             this.label1.Location = new System.Drawing.Point(122, 9);
             this.label1.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(268, 25);
+            this.label1.Size = new System.Drawing.Size(239, 25);
             this.label1.TabIndex = 9;
-            this.label1.Text = "Sistema de Reservaciones";
+            this.label1.Text = "Sistema de Facturacion";
             // 
             // pictureBox2
             // 
